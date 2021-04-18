@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="27.910088mm"
+   height="90.656136mm"
+   viewBox="0 0 98.89401 321.22253"
+   id="svg4183"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="SpaceSchool-icon2.svg">
+  <defs
+     id="defs4185" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="-101.05089"
+     inkscape:cy="143.42362"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4188">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-66.368865,3.8914552)">
+    <g
+       id="logo"
+       transform="translate(-9.0913735,26.263968)">
+      <path
+         d="m 152.23776,-3.9751063 21.4021,203.3303563 -39.48252,-0.13115 -1.80239,-36.5399 -13.83263,-0.0459 -2.41151,36.52589 -39.940544,-0.13266 20.278975,-203.1919012 c 0,0 7.739019,-25.4192328 27.978779,-25.3520068 20.23977,0.06723 27.80974,25.5373117 27.80974,25.5373117 z M 131.37536,126.64918 c -1.87784,-23.02304 -3.73773,-51.4445 -5.57969,-85.264395 -4.03755,38.822186 -6.57478,67.229065 -7.61169,85.220575 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:193.14028931px;line-height:125%;font-family:impact;-inkscape-font-specification:'impact Condensed';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.28582466px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="letterA"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccczccccc" />
+      <path
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="exhaust"
+         d="m 115.23931,204.88861 17.45821,-0.79771 19.24695,44.56103 -13.56494,-3.4679 -13.07487,43.59798 -16.6639,-43.69676 -20.738944,15.33398 z"
+         style="fill:#ff6600;fill-rule:evenodd;stroke:#000000;stroke-width:1.47261548px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>
