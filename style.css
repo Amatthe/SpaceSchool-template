@@ -175,18 +175,21 @@ body {
     margin: 0 5px;
 }
 
-.navbar-menu-hidden {
-    height: 0;
-    overflow: hidden;
+@media only screen and (max-width: 779px) {
+    .navbar-menu-hidden {
+        height: 0;
+        overflow: hidden;
+    }
+
+    .navbar-menu-animation {  
+        transition: all 1s ease;
+    }
+
+    .navbar-menu-revealed {
+        height: 232px; /* ISSUE: 100% doesn't work with current layout */
+    }    
 }
 
-.navbar-menu-animation {  
-    transition: all 1s ease;
-}
-
-.navbar-menu-revealed {
-    height: 232px; /* ISSUE: 100% doesn't work with current layout */
-}
 
 @media only screen and (min-width: 780px) {
     .navbar {
