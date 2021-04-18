@@ -407,7 +407,73 @@ body {
         font-size: 0.8rem;
         flex: 1 1 1;
     }
+
+    .contact-send {
+        max-height: 3rem;
+        display: flex;
+    }
+
+    .contact-send > svg {
+        max-height: 100%;
+    }
+
+    .contact-input-alert {
+        outline: 2px solid var(--primary-color);
+    }
 }
+
+/* ANIMATED GDPR ALERT COMPONENT */
+@keyframes gdpr-alert {
+    0% {
+        transform: translate(0, 0);
+    }
+    25% {
+        transform: translate(0, 5px);
+    } 
+    75% {
+        transform: translate(0, -5px);
+    } 
+    100% {
+        transform: translate(0, 0);
+    }
+}
+
+.gdpr-alert {
+    animation: gdpr-alert 1s 1 both;
+}
+
+/* ANIMATED SEND-FORM COMPONENT */
+@keyframes form-send {
+    0% {
+        transform: translate(0, 0);
+        opacity: 100%;
+    }
+    100% {
+        transform: translate(0, -30rem);
+        opacity: 0;
+    }  
+}
+
+.form-send-animate {
+    animation: form-send 3s ease;
+}
+
+@keyframes animate-logo {
+    0% {
+        transform: translate(0, 0);
+    }
+    50% {
+        transform: translate(0, 10px);
+    }
+    100% {
+        transform: translate(0, 0);
+    }
+}
+
+.animate-logo {
+    animation: animate-logo 1s infinite;
+}
+
 
 /* SECTION SEPARATOR COMPONENT */
 .separator {
